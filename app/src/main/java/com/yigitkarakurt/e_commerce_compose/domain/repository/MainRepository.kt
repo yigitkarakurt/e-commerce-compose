@@ -1,0 +1,3 @@
+package com.yigitkarakurt.e_commerce_compose.domain.repository
+
+interface MainRepository
